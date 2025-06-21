@@ -70,7 +70,13 @@ const depoimentos = [
         nome: "João Vitor Gudolle",
         cargo: "",
         texto: "Parabéns pelo excelente trabalho, tivemos a experiencia aqui na cidade de itaqui RS, a  qualidade, o capricho nos detalhes e o profissionalismo de vocês fazem toda a diferença. Os troféus e medalhas entregues mostram não só beleza, mas também respeito por cada conquista que representam. É gratificante contar com uma empresa tão comprometida, que entende o valor simbólico de cada premiação. Que continuem sendo referência em excelência e criatividade no que fazem. Abraços JV e kellen.",
-        imagem: "public/img/iconpadrao.png"
+        imagem: "public/img/jvgudolle.jpeg"
+    },
+    {
+        nome: "Elias Machado",
+        cargo: "CT Elias Machado",
+        texto: "O CT Elias Machado é aliado à SFING TROFÉUS, quando se trata de premiações. A empresa tem um ótimo atendimento, comprometimento com o cliente e os troféus e medalhas são de ótima qualidade. Lindas as premiações!",
+        imagem: "public/img/cteliasmachado.jfif"
     }
 ];
 
