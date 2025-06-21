@@ -691,10 +691,6 @@ a{
     color: var(--cor-quaternaria);
 }
 
-.depoimento-nav:active {
-    color: var(--cor-quintenaria);
-}
-
 .depoimento-prev {
     left: 10px;
 }
