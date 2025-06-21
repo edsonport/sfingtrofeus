@@ -687,10 +687,6 @@ a{
     transition: all 0.3s ease;
 }
 
-.depoimento-nav:hover {
-    color: var(--cor-quaternaria);
-}
-
 .depoimento-prev {
     left: 10px;
 }
